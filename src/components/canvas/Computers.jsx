@@ -5,7 +5,7 @@ import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
 import CanvasLoader from "../Loader";
 
 const Computers = ({ isMobile }) => {
-  const computer = useGLTF("./desktop_pc/scene.gltf");
+  const computer = useGLTF("./cyberpunk_desk/scene.gltf");
 
   return (
     <mesh>
@@ -21,9 +21,9 @@ const Computers = ({ isMobile }) => {
       <pointLight intensity={1} />
       <primitive
         object={computer.scene}
-        scale={isMobile ? 0.7 : 0.75}
-        position={isMobile ? [0, -3, -2.2] : [0, -3.25, -1.5]}
-        rotation={[-0.01, -0.2, -0.1]}
+        scale={isMobile ? 8.0 : 6.25}
+        position={isMobile ? [55, -50, -50] : [45, -30.25, 25.5]}
+        rotation={[0, 0, 0]}
       />
     </mesh>
   );
@@ -34,7 +34,7 @@ const ComputersCanvas = () => {
 
   useEffect(() => {
     // Add a listener for changes to the screen size
-    const mediaQuery = window.matchMedia("(max-width: 500px)");
+    const mediaQuery = window.matchMedia("(max-width: 578px)");
 
     // Set the initial value of the `isMobile` state variable
     setIsMobile(mediaQuery.matches);
@@ -58,7 +58,7 @@ const ComputersCanvas = () => {
       frameloop='demand'
       shadows
       dpr={[1, 2]}
-      camera={{ position: [20, 1, 5], fov: 60 }}
+      camera={{ position: [20, 1, 5], fov: 50 }}
       gl={{ preserveDrawingBuffer: true }}
     >
       <Suspense fallback={<CanvasLoader />}>
