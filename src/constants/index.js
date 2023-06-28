@@ -42,19 +42,23 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Website Development",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Front-End Development",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Single-Page Applications (SPAs)",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Custom Web Components",
+      icon: creator,
+    },
+    {
+      title: "Integration with APIs",
       icon: creator,
     },
   ];
@@ -73,15 +77,11 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
       name: "React JS",
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
+      name: "Redux",
       icon: redux,
     },
     {
@@ -93,20 +93,12 @@ import {
       icon: nodejs,
     },
     {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
       name: "Three JS",
       icon: threejs,
     },
     {
       name: "git",
       icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
     },
     {
       name: "docker",
