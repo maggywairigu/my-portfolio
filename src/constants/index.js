@@ -31,8 +31,8 @@ import {
       title: "About",
     },
     {
-      id: "work",
-      title: "Work",
+      id: "works",
+      title: "Projects",
     },
     {
       id: "contact",
@@ -100,16 +100,12 @@ import {
       name: "git",
       icon: git,
     },
-    {
-      name: "docker",
-      icon: docker,
-    },
   ];
   
   const experiences = [
     {
       title: "React.js Developer",
-      company_name: "Starbucks",
+      company_name: "********",
       icon: starbucks,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
@@ -121,8 +117,8 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "React.js Developer",
+      company_name: "*********",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
@@ -135,7 +131,7 @@ import {
     },
     {
       title: "Web Developer",
-      company_name: "Shopify",
+      company_name: "*********",
       icon: shopify,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
@@ -147,8 +143,8 @@ import {
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "React.js Developer",
+      company_name: "*********",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
@@ -164,7 +160,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "I thought it was impossible to make a website as beautiful as our product, but Maggy proved me wrong.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -172,7 +168,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "I've never met a web developer who truly cares about their clients' success like Maggy does.",
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",
@@ -180,7 +176,7 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After Maggy optimized our website, our traffic increased by 50%. We can't thank them enough!",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
@@ -190,9 +186,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Project 1",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       tags: [
         {
           name: "react",
@@ -211,9 +207,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Project 2",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       tags: [
         {
           name: "react",
@@ -232,9 +228,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Project 3",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       tags: [
         {
           name: "nextjs",
