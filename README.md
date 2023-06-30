@@ -1,5 +1,5 @@
 # 3D Portfolio Website 🤩
-#<a href="maggy-portfolio.vercel.app">Tap 🔎🖱 to view</a>
+# Tap <a href="maggy-portfolio.vercel.app">🔎🖱 </a> to view.
 
 ![Screen Recording - Jun 30, 2023](https://github.com/maggywairigu/my-portfolio/assets/68754799/cba21e88-4808-44f8-ae8d-86590defbdb8)
 
