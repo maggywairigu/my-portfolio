@@ -4,7 +4,7 @@
 
 # Introduction 😊
 
-Welcome to my 3D portfolio website!🤗 This modern and fully responsive website showcases my captivating 3D models, offering a seamless user experience with smooth animations and customizable features. It utilizes powerful libraries such as Three.js, React Three Fiber, Tailwind CSS, and Framer Motion to create stunning visuals and engaging interactions. In addition, I have implemented a feature to send emails directly from the website using EmailJS.
+Welcome to my 3D portfolio website!🤗 This modern and fully responsive website showcases my captivating 3D models, offering a seamless user experience with smooth animations and customizable features. It utilizes powerful libraries such as Three.js, React Three Fiber, Tailwind CSS, and Framer Motion to create stunning visuals and engaging interactions. In addition, I have implemented a feature to send emails directly from the website using EmailJS. You can use your mouse or touchpad to play around with the 3D models.
 
 # Technologies Used 💻😎
 
