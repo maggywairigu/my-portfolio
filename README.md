@@ -1,10 +1,14 @@
-# 3D Portfolio Website 🤩 <a href='maggy-portfolio.vercel.app' />
+# 3D Portfolio Website 🤩 
 
 ![Screen Recording - Jun 30, 2023](https://github.com/maggywairigu/my-portfolio/assets/68754799/cba21e88-4808-44f8-ae8d-86590defbdb8)
 
 # Introduction 😊
 
 Welcome to my 3D portfolio website!🤗 This modern and fully responsive website showcases my captivating 3D models, offering a seamless user experience with smooth animations and customizable features. It utilizes powerful libraries such as Three.js, React Three Fiber, Tailwind CSS, and Framer Motion to create stunning visuals and engaging interactions. In addition, I have implemented a feature to send emails directly from the website using EmailJS. You can use your mouse or touchpad to play around with the 3D models.
+
+# Deployment 🚀
+
+https://maggy-portfolio-gbz13x4z5-maggywairigu.vercel.app/
 
 # Technologies Used 💻😎
 
