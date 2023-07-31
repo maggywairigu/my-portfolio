@@ -23,6 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    gpt,
   } from "../assets";
   
   export const navLinks = [
@@ -199,7 +200,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: gpt,
       source_code_link: "https://github.com/maggywairigu/AI-ChatGP-app.git",
     },
     {
