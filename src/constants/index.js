@@ -105,7 +105,7 @@ import {
   const experiences = [
     {
       title: "React.js Developer",
-      company_name: "********",
+      company_name: "company1",
       icon: starbucks,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
@@ -118,7 +118,7 @@ import {
     },
     {
       title: "React.js Developer",
-      company_name: "*********",
+      company_name: "company2",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
@@ -131,7 +131,7 @@ import {
     },
     {
       title: "Web Developer",
-      company_name: "*********",
+      company_name: "company3",
       icon: shopify,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
@@ -144,7 +144,7 @@ import {
     },
     {
       title: "React.js Developer",
-      company_name: "*********",
+      company_name: "company4",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
@@ -186,17 +186,13 @@ import {
   
   const projects = [
     {
-      name: "Project 1",
+      name: "AI ChatGPT App",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+         "This application is built using AI's newest machine learning model, leveraging the power of the advanced GPT-3 model API from OpenAI. With an elegant user interface that resembles a chat-based communication, this application is designed to assist you with various programming language queries and much more.",
       tags: [
         {
-          name: "react",
+          name: "reactjs",
           color: "blue-text-gradient",
-        },
-        {
-          name: "mongodb",
-          color: "green-text-gradient",
         },
         {
           name: "tailwind",
@@ -204,7 +200,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/maggywairigu/AI-ChatGP-app.git",
     },
     {
       name: "Project 2",
