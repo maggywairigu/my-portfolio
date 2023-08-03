@@ -192,11 +192,11 @@ import {
          "This application is built using AI's newest machine learning model, leveraging the power of the advanced GPT-3 model API from OpenAI. With an elegant user interface that resembles a chat-based communication, this application is designed to assist you with various programming language queries and much more.",
       tags: [
         {
-          name: "reactjs",
+          name: "javascript",
           color: "blue-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "css",
           color: "pink-text-gradient",
         },
       ],
