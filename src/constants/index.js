@@ -24,6 +24,7 @@ import {
     tripguide,
     threejs,
     gpt,
+    gallery
   } from "../assets";
   
   export const navLinks = [
@@ -204,25 +205,25 @@ import {
       source_code_link: "https://github.com/maggywairigu/AI-ChatGP-app.git",
     },
     {
-      name: "Project 2",
+      name: "Responsive Image gallery",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Introducing an engaging and user-friendly image gallery that I designed and implemented using HTML, CSS, and JavaScript. This responsive gallery allows users to click on image thumbnails, instantly popping up the selected image in the center of the screen. Clicking on the popped-up image seamlessly navigates to the next image in the gallery, providing an immersive and enjoyable browsing experience.",
       tags: [
         {
-          name: "react",
+          name: "html",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "javascript",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "css",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: gallery,
+      source_code_link: "https://github.com/maggywairigu/responsive-image-gallery.git",
     },
     {
       name: "Project 3",
