@@ -200,78 +200,78 @@ import {
   ];
   
   const projects = [
-    {
-      name: "AI ChatGPT App",
-      description:
-         "This application is built using AI's newest machine learning model, leveraging the power of the advanced GPT-3 model API from OpenAI. With an elegant user interface that resembles a chat-based communication, this application is designed to assist you with various programming language queries and much more.",
-      tags: [
-        {
-          name: "javascript",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: gpt,
-      source_code_link: "https://github.com/maggywairigu/AI-ChatGP-app.git",
-    },
-    {
-      name: "HP Character Library",
-      description:
-        "An interactive Harry Potter character library that fetches data through an API integration. Users can view character cards, search for specific characters, and explore detailed information about each character. The project showcases seamless API handling, dynamic content rendering, and a user-friendly interface.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "green-text-gradient",
-        },
-        {
-          name: "cypress",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: hplib,
-      source_code_link: "https://github.com/maggywairigu/responsive-image-gallery.git",
-    },
-    {
-      name: "Face Guard Pro",
-      description:
-        "A robust facial recognition attendance tracking and management system designed to enhance tracking, monitoring, and management process. Built with cutting-edge technologies, it offers accurate recognition, real-time data tracking, and a user-friendly interface.",
-  tags: [
-      tags: [
-        {
-          name: "reactjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "typescript",
-          color: "green-text-gradient",
-        },
-        {
-          name: "python",
-          color: "pink-text-gradient",
-        },
-         {
-          name: "opencv",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "flask",
-          color: "green-text-gradient",
-        },
-        {
-          name: "mysql",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: faceguardpro,
-      source_code_link: "https://github.com/maggywairigu/Facial_Recognition_Attendance_System",
-    },
-  ];
+  {
+    name: "AI ChatGPT App",
+    description:
+       "This application is built using AI's newest machine learning model, leveraging the power of the advanced GPT-3 model API from OpenAI. With an elegant user interface that resembles a chat-based communication, this application is designed to assist you with various programming language queries and much more.",
+    tags: [
+      {
+        name: "javascript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: gpt,
+    source_code_link: "https://github.com/maggywairigu/AI-ChatGP-app.git",
+  },
+  {
+    name: "HP Character Library",
+    description:
+      "An interactive Harry Potter character library that fetches data through an API integration. Users can view character cards, search for specific characters, and explore detailed information about each character. The project showcases seamless API handling, dynamic content rendering, and a user-friendly interface.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "green-text-gradient",
+      },
+      {
+        name: "cypress",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: hplib,
+    source_code_link: "https://github.com/maggywairigu/hpcharacter_library.git",
+  },
+  {
+    name: "Face Guard Pro",
+    description:
+      "A robust facial recognition attendance tracking and management system designed to enhance tracking, monitoring, and management process. Built with cutting-edge technologies, it offers accurate recognition, real-time data tracking, and a user-friendly interface.",
+    tags: [
+      {
+        name: "reactjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "python",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "opencv",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "flask",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mysql",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: faceguardpro,
+    source_code_link: "https://github.com/maggywairigu/Facial_Recognition_Attendance_System.git",
+  },
+];
+
   
   export { services, technologies, experiences, testimonials, projects };
