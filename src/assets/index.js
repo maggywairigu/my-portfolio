@@ -40,6 +40,8 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import gpt from "./gpt.png";
 import gallery from "./gallery.png"
+import hplib from "./hplib.png"
+import faceguardpro from "./faceguardpro.png"
 
 export {
   logo,
@@ -81,4 +83,6 @@ export {
   tripguide,
   gpt,
   gallery,
+  hplib,
+  faceguardpro,
 };
