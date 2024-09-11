@@ -44,25 +44,55 @@ import {
   
   const services = [
     {
-      title: "Website Development",
+      title: "Full-Stack Web Development",
       icon: web,
+      description: "Building responsive and interactive websites tailored to your needs."
     },
     {
       title: "Front-End Development",
       icon: mobile,
+      description: "Creating engaging and dynamic user interfaces using React.js, Next.js, and modern front-end technologies."
     },
     {
       title: "Single-Page Applications (SPAs)",
       icon: backend,
+      description: "Developing seamless and fast single-page applications that enhance user experience."
     },
     {
       title: "Custom Web Components",
       icon: creator,
+      description: "Designing and implementing reusable and custom web components to fit specific requirements."
     },
     {
       title: "Integration with APIs",
-      icon: creator,
+      icon: web,
+      description: "Connecting and integrating third-party APIs for enhanced functionality and data exchange."
     },
+    {
+      title: "Back-End Development",
+      icon: mobile,
+      description: "Developing robust server-side applications and RESTful APIs using Python, Flask, and MySQL."
+    },
+    {
+      title: "Database Design and Management",
+      icon: backend,
+      description: "Designing and managing databases with MySQL, including schema design, query optimization, and data security."
+    },
+    {
+      title: "Full-Stack Development",
+      icon: web,
+      description: "Delivering end-to-end solutions, combining front-end and back-end expertise to build complete web applications."
+    },
+    {
+      title: "Performance Optimization",
+      icon: mobile,
+      description: "Improving website and application performance through optimization techniques and best practices."
+    },
+    {
+      title: "Deployment and DevOps",
+      icon: backend,
+      description: "Handling deployment processes, server management, and continuous integration/continuous deployment (CI/CD) pipelines."
+    }
   ];
   
   const technologies = [
