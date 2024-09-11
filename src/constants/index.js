@@ -3,11 +3,7 @@ import {
     javascript, typescript, html, css, reactjs, redux, tailwind, nodejs, mongodb, git,
     figma, docker, python, flask, mysql, nextjs, sqlalchemy, threejs, oracle,
     meta, starbucks, baobab_systems_company_logo, jan_bridhi, thedownballot, tesla, shopify,
-    carrent,
-    jobit,
-    tripguide,
-    gpt,
-    gallery
+    carrent, jobit, tripguide, gpt, gallery, hplib, faceguardpro,
   } from "../assets";
   
   export const navLinks = [
@@ -222,46 +218,59 @@ import {
       source_code_link: "https://github.com/maggywairigu/AI-ChatGP-app.git",
     },
     {
-      name: "Responsive Image gallery",
+      name: "HP Character Library",
       description:
-        "Introducing an engaging and user-friendly image gallery that I designed and implemented using HTML, CSS, and JavaScript. This responsive gallery allows users to click on image thumbnails, instantly popping up the selected image in the center of the screen. Clicking on the popped-up image seamlessly navigates to the next image in the gallery, providing an immersive and enjoyable browsing experience.",
-      tags: [
-        {
-          name: "html",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "javascript",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: gallery,
-      source_code_link: "https://github.com/maggywairigu/responsive-image-gallery.git",
-    },
-    {
-      name: "Project 3",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "An interactive Harry Potter character library that fetches data through an API integration. Users can view character cards, search for specific characters, and explore detailed information about each character. The project showcases seamless API handling, dynamic content rendering, and a user-friendly interface.",
       tags: [
         {
           name: "nextjs",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "tailwind",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "cypress",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: hplib,
+      source_code_link: "https://github.com/maggywairigu/responsive-image-gallery.git",
+    },
+    {
+      name: "Face Guard Pro",
+      description:
+        "A robust facial recognition attendance tracking and management system designed to enhance tracking, monitoring, and management process. Built with cutting-edge technologies, it offers accurate recognition, real-time data tracking, and a user-friendly interface.",
+  tags: [
+      tags: [
+        {
+          name: "reactjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "typescript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "python",
+          color: "pink-text-gradient",
+        },
+         {
+          name: "opencv",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "flask",
+          color: "green-text-gradient",
+        },
+        {
+          name: "mysql",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: faceguardpro,
+      source_code_link: "https://github.com/maggywairigu/Facial_Recognition_Attendance_System",
     },
   ];
   
