@@ -33,7 +33,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import baobab_systems_company_logo from "./company/baobab_systems_company_logo.png";
 import jan_bridhi from "./company/jan_bridhi.png";
-import thedownballot from "./company/thedownballlot.png";
+import thedownballot from "./company/thedownballot.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
