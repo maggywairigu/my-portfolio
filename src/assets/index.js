@@ -20,11 +20,20 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import nextjs from "./tech/nextjs.png";
+import python from "./tech/python.png";
+import flask from ".tech/flask.png";
+import sqlalchemy from "./tech/flask.png";
+import mysql from ".tech/mysql.png";
+import oracle from ".tech/oracle.png"
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import baobab_systems_company_logo from "./company/baobab_systems_company_logo";
+import jan_bridhi from "./company/jan_bridhi.png";
+import thedownballot from "./company/thedownballlot";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -54,10 +63,19 @@ export {
   tailwind,
   typescript,
   threejs,
+  nextjs,
+  python,
+  flask,
+  sqlalchemy,
+  mysql,
+  oracle,
   meta,
   shopify,
   starbucks,
   tesla,
+  baobab_systems_company_logo,
+  jan_bridhi,
+  thedownballot,
   carrent,
   jobit,
   tripguide,
