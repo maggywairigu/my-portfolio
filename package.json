@@ -1,12 +1,12 @@
 {
   "name": "my-portfolio",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "homepage": ".",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "homepage": ".",
+    "preview": "vite preview"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
@@ -31,4 +31,3 @@
     "three": "^0.153.0"
   }
 }
-
