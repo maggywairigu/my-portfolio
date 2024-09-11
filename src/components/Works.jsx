@@ -59,7 +59,7 @@ const Works = () => {
       <div className='w-full flex'>
         <motion.p variants={fadeIn("", "", 0.1, 1)}
         className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-          Welcome to my Projects section, a testament to my passion for self-improvement and personal exploration. This collection embodies the culmination of countless hours spent honing my skills and embracing creativity. <br/>As a budding professional eager to make my mark, these projects represent my relentless pursuit of knowledge, my commitment to personal growth, and my unwavering determination to push the boundaries of what I can achieve. From personal coding projects to artistic endeavors, from self-taught design experiments to community initiatives, each project tells a story of curiosity, resourcefulness, and a willingness to step outside my comfort zone. <br/>Join me on this journey of self-discovery and witness the evolution of my abilities as I strive to carve out my path in the professional world. Together, let's celebrate the power of individual customization and the limitless potential that lies within.
+          Welcome to my Projects section.
         </motion.p>
       </div>
 
