@@ -42,7 +42,7 @@ const Experience = () => {
       <motion.div variants={textVariant}>
         <p className={styles.sectionSubText}>WHAT I HAVE DONE SO FAR</p>
         <h2 className={styles.sectionHeadText}>Work experience</h2>
-        <p>I don't have any work experience yet. This section is just to show how the code can be made more productive and maintanable <br/>through importing modules such as the VerticalTimeline component. </p>
+        
       </motion.div>
 
       <div className='mt-20 flex flex-col'>
