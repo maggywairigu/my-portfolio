@@ -112,8 +112,8 @@ import {
       icon: nodejs,
     },
     {
-      name: "Three JS",
-      icon: threejs,
+      name: "Docker",
+      icon: docker,
     },
     {
       name: "Python",
@@ -124,16 +124,8 @@ import {
       icon: flask,
     },
     {
-      name: "SQLAlchemy",
-      icon: sqlalchemy,
-    },
-    {
       name: "MYSQL",
       icon: mysql,
-    },
-    {
-      name: "Oracle Database",
-      icon: oracle,
     },
     {
       name: "git",
