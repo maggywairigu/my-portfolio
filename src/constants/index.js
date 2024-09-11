@@ -1,7 +1,7 @@
 import {
     mobile, backend, creator, web,
     javascript, typescript, html, css, reactjs, redux, tailwind, nodejs, mongodb, git,
-    figma, docker, python, flask, mysql, nextjs, sqlalchemy, threejs,
+    figma, docker, python, flask, mysql, nextjs, sqlalchemy, threejs, oracle,
     meta, starbucks, baobab_systems_company_logo, jan_bridhi, thedownballot, tesla, shopify,
     carrent,
     jobit,
