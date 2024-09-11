@@ -22,7 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import nextjs from "./tech/nextjs.png";
 import python from "./tech/python.png";
-import flask from ".tech/flask.png";
+import flask from "./tech/flask.png";
 import sqlalchemy from "./tech/flask.png";
 import mysql from ".tech/mysql.png";
 import oracle from ".tech/oracle.png"
