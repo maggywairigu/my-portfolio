@@ -28,7 +28,7 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-4 text-secondary text-[17px] max-w-4xl leading-[30px]'>
-        I'm an ambitious third-year student at the Technical University of Kenya, specializing in software frontend development. With a passion for creating captivating user experiences, I excel in crafting dynamic and interactive applications using HTML, CSS, JavaScript, and React. Through my dedication and perseverance, I've earned certifications in these technologies from freeCodeCamp, showcasing my commitment to honing my skills. <br />As I expand my expertise, I've recently embarked on a journey into backend development with Python, as part of the esteemed ALX Software Development program. By combining my frontend prowess with backend knowledge, I'm poised to create comprehensive and robust solutions. Join me on this exciting journey as we bring innovation and creativity to life through the power of code. Together, let's build a digital world that captivates, inspires, and leaves a lasting impact.
+        I’m a full-stack software developer who loves bringing ideas to life through code. Whether I’m designing sleek, intuitive interfaces or building the backend magic that makes it all work, I’m all about creating web experiences that delight users and solving real problems. I enjoy the challenge of working across the stack, turning complex challenges into elegant solutions. My mission? To build awesome software that makes a difference. 
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
